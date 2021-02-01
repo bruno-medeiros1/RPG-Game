@@ -1,6 +1,6 @@
 # The Unknow Adventure of Zelda :bow_and_arrow: 
 
-This is a 2D game...
+This game was developed for 2D enviroments, by the process i could learn a lot about 2D topics, such as, **Tile Maps** , **Sorting Layers**, **Animations**, **User Interface** and **Cinemachine Cameras**. I also improved my overall skill in scripting, by getting deeper in things like, **Event Handlers**, **State Machines**, among other techqniques
 
 ## Game Description 
 
