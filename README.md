@@ -1,7 +1,9 @@
 # The Unknow Adventure of Zelda :bow_and_arrow: 
 
+This is a 2D game...
+
 ## Game Description 
-To be continued...
+
 
 ## *Features:*
 
