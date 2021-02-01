@@ -1,7 +1,7 @@
 # The Unknow Adventure of Zelda :bow_and_arrow: 
 
 ## Game Description 
-This...
+To be continued...
 
 ## *Features:*
 
