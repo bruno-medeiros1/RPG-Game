@@ -24,7 +24,7 @@ This project took a lot of self-discipline to finish but it was worth it!
 
 ## *Assets*
 
-1. Game sprites: https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
+1. ***Game sprites***:  https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
 
 
 ### ***Have fun! :stuck_out_tongue_winking_eye:*** 
