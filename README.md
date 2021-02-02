@@ -35,7 +35,8 @@ Finally, when the player starts the ***Boss Mode***, multiples enemies are spawn
 1. ***Pixel Art assets pack***:  https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
 
 
-For last but not least **if you use my code please credit me!** :grin:
+## *Observations*
+- For last but not least **if you use my code please credit me!** :grin:
 
 
 ### ***Have fun! :stuck_out_tongue_winking_eye:*** 
