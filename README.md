@@ -1,7 +1,7 @@
 # **The Unknow Adventure of Zelda** :bow_and_arrow: 
 
 This game was developed for 2D environments, by the process, I could learn a lot about 2D topics, such as **Tile Maps**,  **Sorting Layers**, **Animations**, **User Interface** and **Cinemachine Cameras**. I also improved my overall skill in scripting, by getting deeper in things like **Event Handlers**, **State Machines**, among other techniques.
-This project took a lot of self-discipline to finish but it was worth it and satisfying to get more experience as a game developer!
+This project took a lot of self-discipline to finish but it was worth it and satisfying to get more experience as a game developer! :smile:	
 
 
 ## *Game Description* 
@@ -29,10 +29,15 @@ Finally, when the player starts the ***Boss Mode***, multiples enemies are spawn
 - **`DONE`** Death System for the player and the enemies.
 - **`DONE`**  Post-Processing Effects Added.
 
+
 ## *Assets Used*
 
 1. ***Pixel Art assets pack***:  https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
 
+
+## *Observations*
+
+- **If you use my code please credit me!*** :grin:	
 
 ### ***Have fun! :stuck_out_tongue_winking_eye:*** 
 Thanks for reading! :smile:
