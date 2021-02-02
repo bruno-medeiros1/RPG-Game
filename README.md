@@ -1,6 +1,6 @@
 # **The Unknow Adventure of Zelda** :bow_and_arrow: 
 
-This game was developed for 2D environments, by the process, I could learn a lot about 2D topics, such as **Tile Maps**,  **Sorting Layers**, **Animations**, **User Interface** and **Cinemachine Cameras**. I also improved my overall skill in scripting, by getting deeper in things like **Event Handlers**, **State Machines**, among other techniques.
+This game was developed for 2D environments, by the process, I could learn a lot about 2D topics, such as **Tile Maps**,  **Sorting Layers**, **Animations**, **User Interface**, **Cinemachine Cameras**, among other things. I also improved my overall skill in scripting, by getting deeper in things like **Event Handlers**, **State Machines**, among other techniques.
 This project took a lot of self-discipline to finish but it was worth it and satisfying to get more experience as a game developer! :smile:	
 
 
