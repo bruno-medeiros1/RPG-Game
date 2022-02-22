@@ -1,8 +1,12 @@
-# **The Unknow Adventure of Zelda** :bow_and_arrow: 
+<img src="https://raw.githubusercontent.com/bruno-medeiros1/RPG-Game/master/Content/image1.png"/>
+
+
+## Introduction
 
 This game was developed for 2D environments, by the process, I could learn a lot about 2D topics, such as **Tile Maps**,  **Sorting Layers**, **Animations**, **User Interface**, **Cinemachine Cameras**, among other things. I also improved my overall skill in scripting, by getting deeper in things like **Event Handlers**, **State Machines** and other techniques.
 This project took a lot of self-discipline to finish but it was worth it and satisfying to get more experience as a game developer! :smile:	
 
+----------------------------------------------
 
 ## *Game Description* 
 
@@ -11,6 +15,7 @@ The player can move by pressing the **`W`**, **`S`**, **`A`**, **`D`** keys.
 I wanted that the player could attack with a bowl and arrows, as so, have some special attack, like shooting multiples arrows at a time. This is achievable if the player clicks **`RIGHT-CLICK MOUSE`** but be careful there is a **5s** cooldown for using it.
 Finally, when the player starts the ***Boss Mode***, multiples enemies are spawned which the goal is to kill the most of it and try to break the previous record. ***There is an increment of difficulty in each wave***.
 
+----------------------------------------------
 
 ## *Features*
 
@@ -29,15 +34,19 @@ Finally, when the player starts the ***Boss Mode***, multiples enemies are spawn
 - **`DONE`** Death System for the player and the enemies.
 - **`DONE`**  Post-Processing Effects Added.
 
+----------------------------------------------
 
 ## *Assets Used*
 
 1. ***Pixel Art assets pack***:  https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
 
+----------------------------------------------
 
 ## *Observations*
 - For last but not least **if you use my code please credit me!** :grin:
 
 
-### ***Have fun! :stuck_out_tongue_winking_eye:*** 
-Thanks for reading! :smile:
+###### Developed by Bruno medeiros
+
+| [<img src="https://avatars.githubusercontent.com/u/66907632?v=4" width="155"><br><sub>@brunomedeiros</sub>](https://github.com/bruno-medeiros1) |
+| :---: |
