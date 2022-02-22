@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bruno-medeiros1/RPG-Game/master/Content/image1.png"/>
+<img src="https://raw.githubusercontent.com/bruno-medeiros1/RPG-Game/master/Content/mainMenu.png"/>
 
 
 ## Introduction
@@ -36,6 +36,16 @@ Finally, when the player starts the ***Boss Mode***, multiples enemies are spawn
 
 ----------------------------------------------
 
+## *Gameplay*
+
+<img src="https://raw.githubusercontent.com/bruno-medeiros1/RPG-Game/master/Content/gameplay.gif"/>
+
+
+
+
+
+
+----------------------------------------------
 ## *Assets Used*
 
 1. ***Pixel Art assets pack***:  https://assetstore.unity.com/packages/2d/characters/tiny-rpg-forest-114685
